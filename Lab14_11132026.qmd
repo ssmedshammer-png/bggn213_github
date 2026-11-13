@@ -1,0 +1,10 @@
+---
+title: "Class 11132026"
+author: "Samantha Smedshammer"
+format: html
+---
+
+#bggn213_github
+My classwork from BGGN213 at UCSD 
+
+Testing testing :) 
